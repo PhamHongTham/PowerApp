@@ -23,7 +23,7 @@ DangNhap As screen:
 
         Button1 As button:
             Height: =60
-            OnSelect: =
+            OnSelect: =Navigate(NhapThongTinTOP,ScreenTransition.Fade)
             Text: ="Đang nhập"
             Width: =200
             X: =Parent.Width/2 - Self.Width/2

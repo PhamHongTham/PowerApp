@@ -1,6 +1,6 @@
 {
   "ComponentIndexes": {
-    "Component1": 3
+    "Component1": 4
   },
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
@@ -25,6 +25,7 @@
     "Label4": 18,
     "Label5": 26,
     "Label5_1": 27,
+    "NhapThongTinTOP": 29,
     "Rectangle2": 21,
     "TextInput1": 24,
     "TOP": 5,
@@ -32,7 +33,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/02/2024 03:39:52",
+  "HeaderLastSavedDateTimeUTC": "02/02/2024 03:40:44",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -85,6 +86,7 @@
     "Label4": {},
     "Label5": {},
     "Label5_1": {},
+    "NhapThongTinTOP": {},
     "Rectangle2": {},
     "TextInput1": {},
     "TOP": {},
@@ -114,6 +116,7 @@
     "Label4": 0,
     "Label5": 0,
     "Label5_1": 0,
+    "NhapThongTinTOP": 0,
     "Rectangle2": 0,
     "TextInput1": 0,
     "TOP": 0,

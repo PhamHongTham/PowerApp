@@ -136,6 +136,7 @@
   "ScreenOrder": [
     "TOP",
     "XemDuLieu",
-    "DangNhap"
+    "DangNhap",
+    "NhapThongTinTOP"
   ]
 }
