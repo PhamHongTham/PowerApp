@@ -2,7 +2,7 @@
   "ComponentAllowCustomization": true,
   "ComponentChangedSinceFileImport": true,
   "ComponentManifest": {
-    "AllowAccessToGlobals": false,
+    "AllowAccessToGlobals": true,
     "AllowCustomization": true,
     "Description": "",
     "Name": "MENU điều hướng",
@@ -19,7 +19,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638424425800216944",
+  "LastModifiedTimestamp": "638424428421977248",
   "Name": "f58ea020eadd405abf74974183bda9b5",
   "OverridableProperties": {},
   "Version": "1.0"

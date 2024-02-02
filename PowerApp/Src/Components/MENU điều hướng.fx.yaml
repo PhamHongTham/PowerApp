@@ -1,7 +1,7 @@
 "'MENU điều hướng' As CanvasComponent":
     Fill: =RGBA(0, 0, 0, 0)
-    Height: =640
-    Width: =640
+    Height: =120
+    Width: =650
     X: =0
     Y: =0
     ZIndex: =1
@@ -10,14 +10,13 @@
         BorderStyle: =BorderStyle.None
         BorderThickness: =1
         DropShadow: =DropShadow.None
-        Height: =Parent.Height*.2
+        Height: =120
         RadiusBottomLeft: =0
         RadiusBottomRight: =0
         RadiusTopLeft: =0
         RadiusTopRight: =0
         Width: =Parent.Width*.8
         X: =Parent.Width/2 - Self.Width/2
-        Y: =Parent.Y+20
         ZIndex: =1
 
         Image2 As image:
