@@ -1,11 +1,8 @@
 "'Quản-lí-cấp-nước' As screen":
+    Fill: =RGBA(250, 155, 112, 1)
 
-    "'quan-li-cap-nuoc-Container' As groupContainer.manualLayoutContainer":
-        Height: =Parent.Height
-        Width: =Parent.Width
-        ZIndex: =1
-
-        "'MENU điều hướng_4' As 'MENU điều hướng'":
-            Width: =Parent.Width*.5
-            X: =Parent.Width/2 - Self.Width/2
+    "'MENU điều hướng_4' As 'MENU điều hướng'":
+        Selected: ="Quản-lí-cấp-nước"
+        Width: =Parent.Width*.5
+        X: =Parent.Width/2 - Self.Width/2
 

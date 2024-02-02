@@ -1,60 +1,56 @@
 "'MENU điều hướng' As CanvasComponent":
     Fill: =RGBA(0, 0, 0, 0)
     Height: =120
+    Selected: ="Văn bản"
     Width: =650
     X: =0
     Y: =0
     ZIndex: =1
 
-    Sticky_top_menu As groupContainer.manualLayoutContainer:
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =1
-        DropShadow: =DropShadow.None
+    Selected As rectangle:
+        Fill: =RGBA(0, 0, 0, 0)
         Height: =120
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Width: =Parent.Width*.8
-        X: =Parent.Width/2 - Self.Width/2
+        Width: =132
+        X: =Switch('MENU điều hướng'.Selected, "Dotxuat", Image2.X, "Xác-nhận-KQ", Image2_1.X, "Xử-lí-nguyên-liệu", Image2_2.X, "Quản-lí-cấp-nước", Image2_3.X ,"Xác-nhận-cuối-cùng-về-KH", Image2_4.X)
         ZIndex: =1
 
-        Image2 As image:
-            Height: =128
-            Image: ='Sticky-top-menu'
-            OnSelect: =Navigate(Image2,ScreenTransition.Fade)
-            Width: =147
-            ZIndex: =1
+    Image2 As image:
+        Height: =128
+        Image: ='Sticky-top-menu'
+        OnSelect: =Navigate(Image2,ScreenTransition.Fade)
+        Width: =147
+        X: =64
+        ZIndex: =2
 
-        Image2_1 As image:
-            Height: =128
-            Image: ='Sticky-top-menu'
-            OnSelect: =Navigate(Image2_1,ScreenTransition.Fade)
-            Width: =147
-            X: =92
-            ZIndex: =2
+    Image2_1 As image:
+        Height: =128
+        Image: ='Sticky-top-menu'
+        OnSelect: =Navigate(Image2_1,ScreenTransition.Fade)
+        Width: =147
+        X: =163
+        ZIndex: =3
 
-        Image2_2 As image:
-            Height: =128
-            Image: ='Sticky-top-menu'
-            OnSelect: =Navigate(Image2_2,ScreenTransition.Fade)
-            Width: =147
-            X: =185
-            ZIndex: =3
+    Image2_2 As image:
+        Height: =128
+        Image: ='Sticky-top-menu'
+        OnSelect: =Navigate(Image2_2,ScreenTransition.Fade)
+        Width: =147
+        X: =258
+        ZIndex: =4
 
-        Image2_3 As image:
-            Height: =128
-            Image: ='Sticky-top-menu'
-            OnSelect: =Navigate(Image2_3,ScreenTransition.Fade)
-            Width: =147
-            X: =280
-            ZIndex: =4
+    Image2_3 As image:
+        Height: =128
+        Image: ='Sticky-top-menu'
+        OnSelect: =Navigate(Image2_3,ScreenTransition.Fade)
+        Width: =147
+        X: =355
+        ZIndex: =5
 
-        Image2_4 As image:
-            Height: =128
-            Image: ='Sticky-top-menu'
-            OnSelect: =Navigate(Image2_4,ScreenTransition.Fade)
-            Width: =147
-            X: =370
-            ZIndex: =5
+    Image2_4 As image:
+        Height: =128
+        Image: ='Sticky-top-menu'
+        OnSelect: =Navigate(Image2_4,ScreenTransition.Fade)
+        Width: =147
+        X: =453
+        ZIndex: =6
 
