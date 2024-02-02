@@ -1,0 +1,15 @@
+"'Xác-nhận-KQ' As screen":
+
+    "'Form Container_1' As groupContainer.manualLayoutContainer":
+        BorderStyle: =BorderStyle.None
+        DropShadow: =DropShadow.None
+        Height: =Parent.Height
+        Width: =Parent.Width
+        ZIndex: =1
+
+        "'MENU điều hướng_2' As 'MENU điều hướng'":
+            Height: =100
+            Width: =Parent.Width - 700
+            X: =Parent.Width/2 - Self.Width/2
+            Y: =Parent.Y
+

@@ -134,6 +134,10 @@
     "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Đột-xuất",
+    "Xác-nhận-KQ",
+    "Xử-lí-nguyên-liệu",
+    "Quản-lí-cấp-nước",
+    "xác-nhận-cuối-cùng-về-KH"
   ]
 }
