@@ -1,2 +1,75 @@
 TOP As screen:
 
+    Container1 As groupContainer.manualLayoutContainer:
+        Height: =Parent.Height
+        Width: =Parent.Width
+        ZIndex: =1
+
+        Label1 As label:
+            Align: =Align.Center
+            FontWeight: =FontWeight.Bold
+            Size: =25
+            Text: ="Hệ thống lập kế hoạch đầu vào"
+            Width: =Parent.Width
+            X: =Parent.Width/2 -Self.Width/2
+            Y: =Parent.Height/4 - Self.Height/4
+            ZIndex: =1
+
+        Container2 As groupContainer.manualLayoutContainer:
+            Fill: =RGBA(175, 191, 224, 1)
+            RadiusBottomLeft: =25
+            RadiusBottomRight: =25
+            RadiusTopLeft: =25
+            RadiusTopRight: =25
+            Width: =Parent.Width/3
+            X: =178
+            Y: =328
+            ZIndex: =2
+
+            Icon2 As icon.Person:
+                Color: =RGBA(255, 255, 255, 1)
+                Height: =129
+                Icon: =Icon.Person
+                Width: =455.3333333333333
+                ZIndex: =1
+
+            Label2 As label:
+                Align: =Align.Center
+                Color: =RGBA(255, 255, 255, 1)
+                FontWeight: =FontWeight.Bold
+                Height: =69
+                Size: =18
+                Text: ="Đăng nhập"
+                Width: =455.3333333333333
+                Y: =129
+                ZIndex: =2
+
+        Container2_1 As groupContainer.manualLayoutContainer:
+            Fill: =RGBA(251, 188, 159, 1)
+            RadiusBottomLeft: =25
+            RadiusBottomRight: =25
+            RadiusTopLeft: =25
+            RadiusTopRight: =25
+            Width: =Parent.Width/3
+            X: =730
+            Y: =328
+            ZIndex: =3
+
+            Icon1 As icon.Search:
+                Color: =RGBA(255, 255, 255, 1)
+                Height: =118
+                Icon: =Icon.Search
+                Width: =455.3333333333333
+                ZIndex: =1
+
+            Label3 As label:
+                Align: =Align.Center
+                Color: =RGBA(255, 255, 255, 1)
+                FontWeight: =FontWeight.Bold
+                Height: =81
+                Size: =18
+                Text: ="Xem dữ liệu"
+                Width: =455
+                Y: =118
+                ZIndex: =2
+
