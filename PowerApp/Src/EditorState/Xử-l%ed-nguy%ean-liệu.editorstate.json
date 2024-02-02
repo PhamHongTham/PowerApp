@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Đột-xuất": {
+    "Xử-lí-nguyên-liệu": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Fill",
@@ -20,7 +20,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Đột-xuất",
+      "Name": "Xử-lí-nguyên-liệu",
       "OptimizeForDevices": "Off",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
@@ -70,5 +70,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Đột-xuất"
+  "TopParentName": "Xử-lí-nguyên-liệu"
 }

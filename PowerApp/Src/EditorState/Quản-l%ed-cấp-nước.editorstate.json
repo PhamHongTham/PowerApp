@@ -1,6 +1,6 @@
 {
   "ControlStates": {
-    "Đột-xuất": {
+    "Quản-lí-cấp-nước": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "Fill",
@@ -20,7 +20,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Đột-xuất",
+      "Name": "Quản-lí-cấp-nước",
       "OptimizeForDevices": "Off",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
@@ -70,5 +70,5 @@
       "Type": "ControlInfo"
     }
   },
-  "TopParentName": "Đột-xuất"
+  "TopParentName": "Quản-lí-cấp-nước"
 }

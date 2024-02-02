@@ -1,21 +1,2 @@
 "'Đột-xuất' As screen":
 
-    "'Form Container' As groupContainer.manualLayoutContainer":
-        BorderStyle: =BorderStyle.None
-        DropShadow: =DropShadow.None
-        Height: =Parent.Height
-        LayoutDirection: =LayoutDirection.Manual
-        LayoutMode: =LayoutMode.Auto
-        RadiusBottomLeft: =0
-        RadiusBottomRight: =0
-        RadiusTopLeft: =0
-        RadiusTopRight: =0
-        Width: =Parent.Width
-        ZIndex: =1
-
-        "'MENU điều hướng_1' As 'MENU điều hướng'":
-            Height: =120
-            Width: =Parent.Width 
-            X: =Parent.Width/2 - Self.Width/2
-            Y: =Parent.Y
-
