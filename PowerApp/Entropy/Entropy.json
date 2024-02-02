@@ -3,12 +3,18 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "DangNhap": 6,
     "Host": 3,
-    "Screen1": 4
+    "NhapThongTin": 8,
+    "Param": 9,
+    "TaoKeHoach": 10,
+    "TOP": 4,
+    "TOPNhapThongTin": 7,
+    "XemDuLieu": 5
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/01/2024 10:38:45",
+  "HeaderLastSavedDateTimeUTC": "02/02/2024 02:20:45",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,25 +29,37 @@
   "OrderXMLTemplate": {},
   "OverridablePropertiesEntry": {
     "App": {},
+    "DangNhap": {},
     "Host": {},
-    "Screen1": {}
+    "NhapThongTin": {},
+    "Param": {},
+    "TaoKeHoach": {},
+    "TOP": {},
+    "TOPNhapThongTin": {},
+    "XemDuLieu": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "DangNhap": 0,
     "Host": 0,
-    "Screen1": 0
+    "NhapThongTin": 0,
+    "Param": 0,
+    "TaoKeHoach": 0,
+    "TOP": 0,
+    "TOPNhapThongTin": 0,
+    "XemDuLieu": 0
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0439197,
+    "AnalysisLoadTime": 0.0382146,
     "ControlCount": {
       "screen": 1
     },
-    "DeserializationLoadTime": 0.8423399
+    "DeserializationLoadTime": 0.4812973
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
