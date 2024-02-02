@@ -1,0 +1,7 @@
+DotXuat As screen:
+
+    "'Dot-xuat-Container' As groupContainer.manualLayoutContainer":
+        Height: =Parent.Height
+        Width: =Parent.Width
+        ZIndex: =1
+

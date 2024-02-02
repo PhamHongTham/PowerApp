@@ -1,40 +1,60 @@
 "'MENU điều hướng' As CanvasComponent":
     Fill: =RGBA(0, 0, 0, 0)
-    Height: =640
-    Width: =640
+    Height: =120
+    Width: =650
     X: =0
     Y: =0
     ZIndex: =1
 
-    Sticky_Top_Menu As groupContainer.manualLayoutContainer:
+    Sticky_top_menu As groupContainer.manualLayoutContainer:
+        BorderStyle: =BorderStyle.None
+        BorderThickness: =1
         DropShadow: =DropShadow.None
-        Height: =100
-        Width: =Parent.Width - 290
+        Height: =120
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Width: =Parent.Width*.8
         X: =Parent.Width/2 - Self.Width/2
-        Y: =Parent.Y +20
         ZIndex: =1
 
-        Image1_1 As image:
+        Image2 As image:
+            Height: =128
             Image: ='Sticky-top-menu'
-            X: =64
+            OnSelect: =Navigate(Image2,ScreenTransition.Fade)
+            Width: =147
+            ZIndex: =1
+
+        Image2_1 As image:
+            Height: =128
+            Image: ='Sticky-top-menu'
+            OnSelect: =Navigate(Image2_1,ScreenTransition.Fade)
+            Width: =147
+            X: =92
             ZIndex: =2
 
-        Image1_2 As image:
+        Image2_2 As image:
+            Height: =128
             Image: ='Sticky-top-menu'
-            X: =128
+            OnSelect: =Navigate(Image2_2,ScreenTransition.Fade)
+            Width: =147
+            X: =185
             ZIndex: =3
 
-        Image1_3 As image:
+        Image2_3 As image:
+            Height: =128
             Image: ='Sticky-top-menu'
-            X: =192
+            OnSelect: =Navigate(Image2_3,ScreenTransition.Fade)
+            Width: =147
+            X: =280
             ZIndex: =4
 
-        Image1_4 As image:
+        Image2_4 As image:
+            Height: =128
             Image: ='Sticky-top-menu'
-            X: =256
+            OnSelect: =Navigate(Image2_4,ScreenTransition.Fade)
+            Width: =147
+            X: =370
             ZIndex: =5
-
-        Image1_5 As image:
-            Image: ='Sticky-top-menu'
-            ZIndex: =6
 

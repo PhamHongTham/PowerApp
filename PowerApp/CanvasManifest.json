@@ -100,7 +100,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 6,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "DesktopOrTablet",
@@ -143,6 +143,8 @@
     "NhapThongTinTOP",
     "TOP",
     "XemDuLieu",
-    "ThongSo"
+    "ThongSo",
+    "DotXuat",
+    "Xác-nhận-cuối-cùng-về-KH"
   ]
 }
