@@ -1,125 +1,26 @@
 {
-  "ComponentIndexes": {
-    "Component1": 8
-  },
+  "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Component1": 26,
-    "DangNhap": 4,
-    "Host": 3,
-    "Image1": 14,
-    "Image1_1": 15,
-    "Image1_2": 16,
-    "Image1_3": 17,
-    "Image1_4": 18,
-    "Image1_5": 44,
-    "Image1_6": 43,
-    "Image1_7": 42,
-    "Image1_8": 41,
-    "Image1_9": 40,
-    "NhapThongTin": 5,
-    "Param": 6,
-    "Screen1": 11,
-    "Sticky_top_menu": 13,
-    "Sticky_top_menu_1": 39,
-    "TaoKeHoach": 7,
-    "TOP": 8,
-    "TOPNhapThongTin": 9,
-    "XemDuLieu": 10
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/02/2024 03:02:10",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "Sticky-top-menu": "514a62a4-0e1b-4ef3-bb0e-e7a3e1e59a3e.png"
-  },
-  "LocalResourceRootPaths": {
-    "Sticky-top-menu": "https://docserverpwaprodeas.blob.core.windows.net/b094442d-cd90-41c3-a5d0-e9d8ce53c1f3-1/resource/e92c329f-00ab-45d0-8bc1-cc07fd8c5ee6.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-02-02T02%3A25%3A25Z&ske=2024-02-03T02%3A40%3A25Z&sks=b&skv=2022-11-02&sv=2022-11-02&spr=https&se=2024-02-03T02%3A40%3A25Z&sr=b&sp=r&sig=AiZifyoks2GNkDPBKr4RXCddbizBJm1Fw5NUF43cJqM%3D"
-  },
-  "OrderComponentMetadata": {
-    "68f514309a9341988f55a2f0ef61b7f4": 0
-  },
-  "OrderComponentTemplate": {
-    "68f514309a9341988f55a2f0ef61b7f4": 0
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "groupContainer": 0,
-    "image": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Component1": {},
-    "DangNhap": {},
-    "Host": {},
-    "Image1": {},
-    "Image1_1": {},
-    "Image1_2": {},
-    "Image1_3": {},
-    "Image1_4": {},
-    "Image1_5": {},
-    "Image1_6": {},
-    "Image1_7": {},
-    "Image1_8": {},
-    "Image1_9": {},
-    "NhapThongTin": {},
-    "Param": {},
-    "Screen1": {},
-    "Sticky_top_menu": {},
-    "Sticky_top_menu_1": {},
-    "TaoKeHoach": {},
-    "TOP": {},
-    "TOPNhapThongTin": {},
-    "XemDuLieu": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Component1": 0,
-    "DangNhap": 3,
-    "Host": 0,
-    "Image1": 1,
-    "Image1_1": 2,
-    "Image1_2": 3,
-    "Image1_3": 4,
-    "Image1_4": 5,
-    "Image1_5": 8,
-    "Image1_6": 9,
-    "Image1_7": 10,
-    "Image1_8": 11,
-    "Image1_9": 7,
-    "NhapThongTin": 4,
-    "Param": 5,
-    "Screen1": 0,
-    "Sticky_top_menu": 0,
-    "Sticky_top_menu_1": 6,
-    "TaoKeHoach": 6,
-    "TOP": 7,
-    "TOPNhapThongTin": 8,
-    "XemDuLieu": 9
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0,
-    "Image-Sticky-top-menu": 1
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.014015,
-    "ControlCount": {
-      "groupContainer": 3,
-      "image": 20,
-      "screen": 7
-    },
-    "DeserializationLoadTime": 0.2818718
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
