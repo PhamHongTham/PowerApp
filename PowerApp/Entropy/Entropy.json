@@ -1,136 +1,26 @@
 {
-  "ComponentIndexes": {
-    "MENU điều hướng": 5,
-    "MENU điều hướng_1": 1,
-    "MENU điều hướng_2": 1,
-    "MENU điều hướng_3": 1,
-    "MENU điều hướng_4": 1,
-    "MENU điều hướng_5": 1
-  },
+  "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Đột-xuất": 5,
-    "Form Container": 6,
-    "Form Container_1": 28,
-    "Form Container_2": 30,
-    "Form Container_3": 32,
-    "Form Container_4": 34,
-    "Host": 3,
-    "Image1_1": 15,
-    "Image1_2": 16,
-    "Image1_3": 17,
-    "Image1_4": 18,
-    "Image1_5": 25,
-    "MENU điều hướng": 4,
-    "MENU điều hướng_1": 19,
-    "MENU điều hướng_2": 29,
-    "MENU điều hướng_3": 31,
-    "MENU điều hướng_4": 33,
-    "MENU điều hướng_5": 35,
-    "Quản-lí-cấp-nước": 23,
-    "Sticky_Top_Menu": 13,
-    "xác-nhận-cuối-cùng-về-KH": 24,
-    "Xác-nhận-KQ": 21,
-    "Xử-lí-nguyên-liệu": 22
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/02/2024 03:42:39",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {
-    "Sticky-top-menu": "d0302754-c377-42f7-8b5e-8509df1c0e3b.png"
-  },
-  "LocalResourceRootPaths": {
-    "Sticky-top-menu": "https://docserverpwaprodseas.blob.core.windows.net/b98110eb-0b6a-42e1-a18f-52727d9886ab-1/resource/21c95b73-528d-4d5d-b59c-090dcb72f3db.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-02-02T03%3A22%3A31Z&ske=2024-02-03T03%3A37%3A31Z&sks=b&skv=2022-11-02&sv=2022-11-02&spr=https&se=2024-02-03T03%3A37%3A31Z&sr=b&sp=r&sig=hQqArnvPSCA6lN4Hj0w07%2BE7r5CAANKqhmZ1aZnZEL8%3D"
-  },
-  "OrderComponentMetadata": {
-    "f58ea020eadd405abf74974183bda9b5": 0
-  },
-  "OrderComponentTemplate": {
-    "f58ea020eadd405abf74974183bda9b5": 0
-  },
-  "OrderDataSource": {
-    "DropDownSample": 0
-  },
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "groupContainer": 0,
-    "image": 1
-  },
-  "OverridablePropertiesEntry": {
-    "App": {},
-    "Đột-xuất": {},
-    "Form Container": {},
-    "Form Container_1": {},
-    "Form Container_2": {},
-    "Form Container_3": {},
-    "Form Container_4": {},
-    "Host": {},
-    "Image1_1": {},
-    "Image1_2": {},
-    "Image1_3": {},
-    "Image1_4": {},
-    "Image1_5": {},
-    "MENU điều hướng": {},
-    "MENU điều hướng_1": {},
-    "MENU điều hướng_2": {},
-    "MENU điều hướng_3": {},
-    "MENU điều hướng_4": {},
-    "MENU điều hướng_5": {},
-    "Quản-lí-cấp-nước": {},
-    "Sticky_Top_Menu": {},
-    "xác-nhận-cuối-cùng-về-KH": {},
-    "Xác-nhận-KQ": {},
-    "Xử-lí-nguyên-liệu": {}
-  },
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {},
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {
-    "App": 0,
-    "Đột-xuất": 0,
-    "Form Container": 0,
-    "Form Container_1": 2,
-    "Form Container_2": 4,
-    "Form Container_3": 6,
-    "Form Container_4": 8,
-    "Host": 0,
-    "Image1_1": 12,
-    "Image1_2": 13,
-    "Image1_3": 14,
-    "Image1_4": 15,
-    "Image1_5": 11,
-    "MENU điều hướng": 0,
-    "MENU điều hướng_1": 1,
-    "MENU điều hướng_2": 3,
-    "MENU điều hướng_3": 5,
-    "MENU điều hướng_4": 7,
-    "MENU điều hướng_5": 9,
-    "Quản-lí-cấp-nước": 0,
-    "Sticky_Top_Menu": 10,
-    "xác-nhận-cuối-cùng-về-KH": 0,
-    "Xác-nhận-KQ": 0,
-    "Xử-lí-nguyên-liệu": 0
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0,
-    "Image-Sticky-top-menu": 1
-  },
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0550112,
-    "ControlCount": {
-      "f58ea020eadd405abf74974183bda9b5": 8,
-      "groupContainer": 5,
-      "image": 10,
-      "screen": 1
-    },
-    "DeserializationLoadTime": 0.7067215
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }

@@ -14,17 +14,16 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'MENU điều hướng'.Sticky_Top_Menu.Image1_5.AccessibleLabel"
+                  "fullyQualifiedName": "Screen1"
                 }
               ],
               "properties": {
-                "member": "AccessibleLabel",
-                "module": "MENU điều hướng",
-                "type": "'MENU điều hướng'.Sticky_Top_Menu.Image1_5"
+                "module": "Screen1",
+                "type": "Screen1"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'MENU điều hướng'.Sticky_Top_Menu.Image1_5.AccessibleLabel",
+                  "fullyQualifiedName": "Screen1",
                   "relativeAddress": 0
                 }
               }
@@ -34,9 +33,9 @@
             "id": "issue"
           },
           "properties": {
-            "level": "Medium"
+            "level": "Low"
           },
-          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleId": "acc-ReadableScreenNameNeeded",
           "ruleIndex": 0
         },
         {
@@ -44,17 +43,17 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "'MENU điều hướng'.Sticky_Top_Menu.Image1_5.TabIndex"
+                  "fullyQualifiedName": "App.Sticky-top-menu"
                 }
               ],
               "properties": {
-                "member": "TabIndex",
-                "module": "MENU điều hướng",
-                "type": "'MENU điều hướng'.Sticky_Top_Menu.Image1_5"
+                "member": "Sticky-top-menu",
+                "module": "App",
+                "type": "App"
               },
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "'MENU điều hướng'.Sticky_Top_Menu.Image1_5.TabIndex",
+                  "fullyQualifiedName": "App.Sticky-top-menu",
                   "relativeAddress": 0
                 }
               }
@@ -66,7 +65,7 @@
           "properties": {
             "level": "Medium"
           },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleId": "app-UnusedMediaResources",
           "ruleIndex": 1
         }
       ],
@@ -76,37 +75,37 @@
           "name": "PowerApps app checker",
           "rules": [
             {
-              "id": "acc-AccessibleLabelNeeded",
+              "id": "acc-ReadableScreenNameNeeded",
               "messageStrings": {
                 "issue": {
-                  "text": "Missing accessible label"
+                  "text": "Revise screen name"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "Edit the accessible label property to describe the item."
+                  "Give the screen  a title that describes what's on the screen or what it's used for."
                 ],
-                "level": "Medium",
+                "level": "Low",
                 "primaryCategory": "accessibility",
-                "whyFix": "If there's no accessible text, people who can’t see the screen won't understand what’s in images and controls."
+                "whyFix": "People who are blind, have low vision, or a reading disability rely on screen titles to navigate using the screen reader. "
               }
             },
             {
-              "id": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+              "id": "app-UnusedMediaResources",
               "messageStrings": {
                 "issue": {
-                  "text": "Missing tab stop"
+                  "text": "Tệp phương tiện không sử dụng"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "Set TabIndex to 0 or greater to ensure that interactive elements have a tab stop."
+                  "Loại bỏ tệp phương tiện không sử dụng trong ngăn Phương tiện."
                 ],
                 "level": "Medium",
-                "primaryCategory": "accessibility",
-                "whyFix": "People who use the keyboard with your app will not be able to access this element without a tab stop."
+                "primaryCategory": "performance",
+                "whyFix": "Tệp phương tiện này không được bất kỳ công thức điều khiển nào tham chiếu nên là tệp không cần thiết. Có thể loại bỏ tệp này để cải thiện hiệu suất."
               }
             }
           ],
