@@ -134,6 +134,12 @@
     "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
-    "Screen1"
+    "TOP",
+    "XemDuLieu",
+    "DangNhap",
+    "TOPNhapThongTin",
+    "NhapThongTin",
+    "Param",
+    "TaoKeHoach"
   ]
 }
