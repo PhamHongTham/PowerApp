@@ -1,7 +1,14 @@
 Param As screen:
 
     Container1_5 As groupContainer.manualLayoutContainer:
+        DropShadow: =DropShadow.None
         Height: =Parent.Height
+        LayoutDirection: =LayoutDirection.Manual
+        LayoutMode: =LayoutMode.Auto
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
         Width: =Parent.Width
         ZIndex: =1
 
