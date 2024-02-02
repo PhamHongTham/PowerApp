@@ -1,7 +1,14 @@
 TOP As screen:
 
     Container1 As groupContainer.manualLayoutContainer:
+        DropShadow: =DropShadow.None
         Height: =Parent.Height
+        LayoutDirection: =LayoutDirection.Manual
+        LayoutMode: =LayoutMode.Auto
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
         Width: =Parent.Width
         ZIndex: =1
 
@@ -16,11 +23,14 @@ TOP As screen:
             ZIndex: =1
 
         Container2 As groupContainer.manualLayoutContainer:
+            DropShadow: =DropShadow.None
             Fill: =RGBA(175, 191, 224, 1)
-            RadiusBottomLeft: =25
-            RadiusBottomRight: =25
-            RadiusTopLeft: =25
-            RadiusTopRight: =25
+            LayoutDirection: =LayoutDirection.Manual
+            LayoutMode: =LayoutMode.Auto
+            RadiusBottomLeft: =0
+            RadiusBottomRight: =0
+            RadiusTopLeft: =0
+            RadiusTopRight: =0
             Width: =Parent.Width/3
             X: =178
             Y: =328
@@ -47,11 +57,14 @@ TOP As screen:
                 ZIndex: =2
 
         Container2_1 As groupContainer.manualLayoutContainer:
+            DropShadow: =DropShadow.None
             Fill: =RGBA(251, 188, 159, 1)
-            RadiusBottomLeft: =25
-            RadiusBottomRight: =25
-            RadiusTopLeft: =25
-            RadiusTopRight: =25
+            LayoutDirection: =LayoutDirection.Manual
+            LayoutMode: =LayoutMode.Auto
+            RadiusBottomLeft: =0
+            RadiusBottomRight: =0
+            RadiusTopLeft: =0
+            RadiusTopRight: =0
             Width: =Parent.Width/3
             X: =730
             Y: =328
