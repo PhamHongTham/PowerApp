@@ -1,2 +1,32 @@
 XemDuLieu As screen:
 
+    Container3 As groupContainer.manualLayoutContainer:
+        Height: =Parent.Height
+        Width: =Parent.Width
+        ZIndex: =1
+
+        Label4 As label:
+            Align: =Align.Center
+            FontWeight: =FontWeight.Bold
+            Height: =60
+            Size: =25
+            Text: ="Xem dữ liệu"
+            Width: =Parent.Width
+            ZIndex: =1
+
+        Icon3 As icon.BackArrow:
+            Height: =40
+            Icon: =Icon.BackArrow
+            OnSelect: =Navigate(TOP,ScreenTransition.Fade)
+            Width: =40
+            X: =20
+            Y: =10
+            ZIndex: =2
+
+        Rectangle2 As rectangle:
+            Fill: =RGBA(0, 0, 0, 1)
+            Height: =10
+            Width: =Parent.Width
+            Y: =72
+            ZIndex: =3
+
