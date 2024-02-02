@@ -134,6 +134,8 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "TOP"
+    "TOP",
+    "XemDuLieu",
+    "DangNhap"
   ]
 }

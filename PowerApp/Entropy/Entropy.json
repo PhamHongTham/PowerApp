@@ -1,6 +1,6 @@
 {
   "ComponentIndexes": {
-    "Component1": 1
+    "Component1": 3
   },
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
@@ -9,17 +9,19 @@
     "Container1": 6,
     "Container2": 9,
     "Container2_1": 10,
+    "DangNhap": 16,
     "Host": 3,
     "Icon1": 11,
     "Icon2": 12,
     "Label1": 7,
     "Label2": 13,
     "Label3": 14,
-    "TOP": 5
+    "TOP": 5,
+    "XemDuLieu": 15
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/02/2024 03:26:29",
+  "HeaderLastSavedDateTimeUTC": "02/02/2024 03:28:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -52,13 +54,15 @@
     "Container1": {},
     "Container2": {},
     "Container2_1": {},
+    "DangNhap": {},
     "Host": {},
     "Icon1": {},
     "Icon2": {},
     "Label1": {},
     "Label2": {},
     "Label3": {},
-    "TOP": {}
+    "TOP": {},
+    "XemDuLieu": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
@@ -68,13 +72,15 @@
     "Container1": 0,
     "Container2": 0,
     "Container2_1": 0,
+    "DangNhap": 0,
     "Host": 0,
     "Icon1": 0,
     "Icon2": 0,
     "Label1": 0,
     "Label2": 0,
     "Label3": 0,
-    "TOP": 0
+    "TOP": 0,
+    "XemDuLieu": 0
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0,
