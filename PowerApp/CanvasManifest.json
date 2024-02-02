@@ -100,7 +100,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 0,
+    "BindingErrorCount": 11,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "DesktopOrTablet",
@@ -140,6 +140,7 @@
     "TOPNhapThongTin",
     "NhapThongTin",
     "Param",
-    "TaoKeHoach"
+    "TaoKeHoach",
+    "Screen1"
   ]
 }
