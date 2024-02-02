@@ -14,48 +14,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Screen1"
-                }
-              ],
-              "properties": {
-                "module": "Screen1",
-                "type": "Screen1"
-              },
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Screen1",
-                  "relativeAddress": 0
-                }
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Low"
-          },
-          "ruleId": "acc-ReadableScreenNameNeeded",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "App.Sticky-top-menu"
                 }
               ],
-              "properties": {
-                "member": "Sticky-top-menu",
-                "module": "App",
-                "type": "App"
-              },
               "physicalLocation": {
                 "address": {
                   "fullyQualifiedName": "App.Sticky-top-menu",
                   "relativeAddress": 0
                 }
+              },
+              "properties": {
+                "member": "Sticky-top-menu",
+                "module": "App",
+                "type": "App"
               }
             }
           ],
@@ -66,7 +37,7 @@
             "level": "Medium"
           },
           "ruleId": "app-UnusedMediaResources",
-          "ruleIndex": 1
+          "ruleIndex": 0
         }
       ],
       "tool": {
@@ -75,37 +46,20 @@
           "name": "PowerApps app checker",
           "rules": [
             {
-              "id": "acc-ReadableScreenNameNeeded",
-              "messageStrings": {
-                "issue": {
-                  "text": "Revise screen name"
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Give the screen  a title that describes what's on the screen or what it's used for."
-                ],
-                "level": "Low",
-                "primaryCategory": "accessibility",
-                "whyFix": "People who are blind, have low vision, or a reading disability rely on screen titles to navigate using the screen reader. "
-              }
-            },
-            {
               "id": "app-UnusedMediaResources",
               "messageStrings": {
                 "issue": {
-                  "text": "Tệp phương tiện không sử dụng"
+                  "text": "Unused media files"
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "Loại bỏ tệp phương tiện không sử dụng trong ngăn Phương tiện."
+                  "Remove the unused media file in the Media pane."
                 ],
                 "level": "Medium",
                 "primaryCategory": "performance",
-                "whyFix": "Tệp phương tiện này không được bất kỳ công thức điều khiển nào tham chiếu nên là tệp không cần thiết. Có thể loại bỏ tệp này để cải thiện hiệu suất."
+                "whyFix": "This media file is not referenced by any control formulas so it is not needed. Removing it will improve performance."
               }
             }
           ],
