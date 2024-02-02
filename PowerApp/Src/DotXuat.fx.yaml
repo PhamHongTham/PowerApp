@@ -1,6 +1,6 @@
-"'Đột-xuất' As screen":
+DotXuat As screen:
 
-    "'Form Container' As groupContainer.manualLayoutContainer":
+    "'Dot-xuat-Container' As groupContainer.manualLayoutContainer":
         Height: =Parent.Height
         Width: =Parent.Width
         ZIndex: =1

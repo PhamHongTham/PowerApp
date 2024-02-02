@@ -22,12 +22,14 @@
         Image2 As image:
             Height: =128
             Image: ='Sticky-top-menu'
+            OnSelect: =Navigate(Image2,ScreenTransition.Fade)
             Width: =147
             ZIndex: =1
 
         Image2_1 As image:
             Height: =128
             Image: ='Sticky-top-menu'
+            OnSelect: =Navigate(Image2_1,ScreenTransition.Fade)
             Width: =147
             X: =92
             ZIndex: =2
@@ -35,6 +37,7 @@
         Image2_2 As image:
             Height: =128
             Image: ='Sticky-top-menu'
+            OnSelect: =Navigate(Image2_2,ScreenTransition.Fade)
             Width: =147
             X: =185
             ZIndex: =3
@@ -42,6 +45,7 @@
         Image2_3 As image:
             Height: =128
             Image: ='Sticky-top-menu'
+            OnSelect: =Navigate(Image2_3,ScreenTransition.Fade)
             Width: =147
             X: =280
             ZIndex: =4
@@ -49,6 +53,7 @@
         Image2_4 As image:
             Height: =128
             Image: ='Sticky-top-menu'
+            OnSelect: =Navigate(Image2_4,ScreenTransition.Fade)
             Width: =147
             X: =370
             ZIndex: =5

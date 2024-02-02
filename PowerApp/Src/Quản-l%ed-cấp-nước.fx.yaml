@@ -1,6 +1,6 @@
 "'Quản-lí-cấp-nước' As screen":
 
-    "'Form Container_3' As groupContainer.manualLayoutContainer":
+    "'quan-li-cap-nuoc-Container' As groupContainer.manualLayoutContainer":
         Height: =Parent.Height
         Width: =Parent.Width
         ZIndex: =1

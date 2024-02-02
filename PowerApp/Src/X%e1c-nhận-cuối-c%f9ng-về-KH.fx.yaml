@@ -1,6 +1,6 @@
 "'Xác-nhận-cuối-cùng-về-KH' As screen":
 
-    "'Form Container_4' As groupContainer.manualLayoutContainer":
+    "'xac-nhan-cuoi-cung-ve-KH-Container' As groupContainer.manualLayoutContainer":
         Height: =Parent.Height
         Width: =Parent.Width
         ZIndex: =1
