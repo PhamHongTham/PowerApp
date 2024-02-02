@@ -1,2 +1,18 @@
 TOP As screen:
 
+    Container1 As groupContainer.manualLayoutContainer:
+        Height: =Parent.Height
+        Width: =Parent.Width
+        ZIndex: =1
+
+        Label1 As label:
+            Align: =Align.Center
+            FontWeight: =FontWeight.Bold
+            Height: =55
+            Size: =18
+            Text: ="Hệ thống lập kế hoạch đầu vào"
+            Width: =975
+            X: =Parent.Width/2 - Self.Width/2
+            Y: =210
+            ZIndex: =1
+

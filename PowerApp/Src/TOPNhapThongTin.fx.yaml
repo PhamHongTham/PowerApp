@@ -1,2 +1,7 @@
 TOPNhapThongTin As screen:
 
+    Container1_3 As groupContainer.manualLayoutContainer:
+        Height: =Parent.Height
+        Width: =Parent.Width
+        ZIndex: =1
+
