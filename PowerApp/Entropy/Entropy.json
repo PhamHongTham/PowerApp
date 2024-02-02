@@ -1,26 +1,67 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Host": 3,
+    "Screen1": 40,
+    "Xử-lí-nguyên-liệu": 10
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/02/2024 04:31:16",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "Sticky-top-menu": "0001.png"
+  },
+  "LocalResourceRootPaths": {
+    "Sticky-top-menu": "https://docserverpwaprodseas.blob.core.windows.net/f4836759-6765-45a0-938a-add1a74f1b95-1/resource/Assets0Images00001.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-02-02T04%3A29%3A21Z&ske=2024-02-03T04%3A44%3A21Z&sks=b&skv=2022-11-02&sv=2022-11-02&spr=https&se=2024-02-03T04%3A44%3A21Z&sr=b&sp=r&sig=J%2F0%2BQdCPXLTe8jaB3NZ%2B80LheWMz6sCYe9zbgzeFz1M%3D"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0,
+    "DropDownSample": 1
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Host": {},
+    "Screen1": {},
+    "Xử-lí-nguyên-liệu": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Host": 0,
+    "Screen1": 0,
+    "Xử-lí-nguyên-liệu": 38
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0,
+    "Image-Sticky-top-menu": 1
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.2038402,
+    "ControlCount": {
+      "button": 3,
+      "dropdown": 2,
+      "groupContainer": 7,
+      "icon": 5,
+      "label": 7,
+      "rectangle": 1,
+      "screen": 10,
+      "text": 1
+    },
+    "DeserializationLoadTime": 1.3294963
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }

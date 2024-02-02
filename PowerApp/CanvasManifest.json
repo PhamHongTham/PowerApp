@@ -100,7 +100,7 @@
       "zeroalltabindexes": false
     },
     "Author": "",
-    "BindingErrorCount": 6,
+    "BindingErrorCount": 0,
     "ContainsThirdPartyPcfControls": false,
     "DefaultConnectedDataSourceMaxGetRowsCount": 500,
     "DocumentAppType": "DesktopOrTablet",
@@ -134,17 +134,7 @@
     "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
-    "Đột-xuất",
-    "Xác-nhận-KQ",
     "Xử-lí-nguyên-liệu",
-    "Quản-lí-cấp-nước",
-    "xác-nhận-cuối-cùng-về-KH",
-    "DangNhap",
-    "NhapThongTinTOP",
-    "TOP",
-    "XemDuLieu",
-    "ThongSo",
-    "DotXuat",
-    "Xác-nhận-cuối-cùng-về-KH"
+    "Screen1"
   ]
 }
