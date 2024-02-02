@@ -78,11 +78,9 @@
           "RadiusTopLeft",
           "RadiusTopRight",
           "RadiusBottomLeft",
-          "RadiusBottomRight",
-          "ChildTabPriority",
-          "EnableChildFocus"
+          "RadiusBottomRight"
         ],
-        "ControlUniqueId": "5",
+        "ControlUniqueId": "13",
         "Children": [
           {
             "AllowAccessToGlobals": true,
@@ -125,7 +123,7 @@
               "PaddingLeft",
               "OnSelect"
             ],
-            "ControlUniqueId": "6",
+            "ControlUniqueId": "25",
             "Children": [],
             "HasDynamicProperties": false,
             "Index": 0,
@@ -140,7 +138,7 @@
             "OptimizeForDevices": "Off",
             "Parent": "Sticky_Top_Menu",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 3,
+            "PublishOrderIndex": 11,
             "Rules": [
               {
                 "Category": "Data",
@@ -379,7 +377,7 @@
               "PaddingBottom",
               "PaddingLeft"
             ],
-            "ControlUniqueId": "7",
+            "ControlUniqueId": "15",
             "Children": [],
             "HasDynamicProperties": false,
             "Index": 0,
@@ -394,7 +392,7 @@
             "OptimizeForDevices": "Off",
             "Parent": "Sticky_Top_Menu",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 4,
+            "PublishOrderIndex": 12,
             "Rules": [
               {
                 "Category": "Data",
@@ -627,7 +625,7 @@
               "PaddingBottom",
               "PaddingLeft"
             ],
-            "ControlUniqueId": "8",
+            "ControlUniqueId": "16",
             "Children": [],
             "HasDynamicProperties": false,
             "Index": 0,
@@ -642,7 +640,7 @@
             "OptimizeForDevices": "Off",
             "Parent": "Sticky_Top_Menu",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 5,
+            "PublishOrderIndex": 13,
             "Rules": [
               {
                 "Category": "Data",
@@ -875,7 +873,7 @@
               "PaddingBottom",
               "PaddingLeft"
             ],
-            "ControlUniqueId": "9",
+            "ControlUniqueId": "17",
             "Children": [],
             "HasDynamicProperties": false,
             "Index": 0,
@@ -890,7 +888,7 @@
             "OptimizeForDevices": "Off",
             "Parent": "Sticky_Top_Menu",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 6,
+            "PublishOrderIndex": 14,
             "Rules": [
               {
                 "Category": "Data",
@@ -1123,7 +1121,7 @@
               "PaddingBottom",
               "PaddingLeft"
             ],
-            "ControlUniqueId": "10",
+            "ControlUniqueId": "18",
             "Children": [],
             "HasDynamicProperties": false,
             "Index": 0,
@@ -1138,7 +1136,7 @@
             "OptimizeForDevices": "Off",
             "Parent": "Sticky_Top_Menu",
             "PersistMetaDataIDKey": false,
-            "PublishOrderIndex": 7,
+            "PublishOrderIndex": 15,
             "Rules": [
               {
                 "Category": "Data",
@@ -1345,29 +1343,29 @@
         "OptimizeForDevices": "Off",
         "Parent": "MENU điều hướng",
         "PersistMetaDataIDKey": false,
-        "PublishOrderIndex": 2,
+        "PublishOrderIndex": 10,
         "Rules": [
           {
             "Category": "Design",
-            "InvariantScript": "0",
+            "InvariantScript": "4",
             "Property": "RadiusBottomRight",
             "RuleProviderType": "Unknown"
           },
           {
             "Category": "Design",
-            "InvariantScript": "0",
+            "InvariantScript": "4",
             "Property": "RadiusBottomLeft",
             "RuleProviderType": "Unknown"
           },
           {
             "Category": "Design",
-            "InvariantScript": "0",
+            "InvariantScript": "4",
             "Property": "RadiusTopRight",
             "RuleProviderType": "Unknown"
           },
           {
             "Category": "Design",
-            "InvariantScript": "0",
+            "InvariantScript": "4",
             "Property": "RadiusTopLeft",
             "RuleProviderType": "Unknown"
           },
@@ -1421,14 +1419,20 @@
           },
           {
             "Category": "Design",
-            "InvariantScript": "LayoutDirection.Manual",
+            "InvariantScript": "LayoutDirection.Horizontal",
             "Property": "LayoutDirection",
             "RuleProviderType": "Unknown"
           },
           {
             "Category": "Design",
-            "InvariantScript": "LayoutMode.Auto",
+            "InvariantScript": "LayoutMode.Manual",
             "Property": "LayoutMode",
+            "RuleProviderType": "Unknown"
+          },
+          {
+            "Category": "Design",
+            "InvariantScript": "DisplayMode.Edit",
+            "Property": "DisplayMode",
             "RuleProviderType": "Unknown"
           },
           {
@@ -1472,18 +1476,6 @@
             "InvariantScript": "RGBA(0, 0, 0, 1)",
             "Property": "BorderColor",
             "RuleProviderType": "Unknown"
-          },
-          {
-            "Category": "Design",
-            "InvariantScript": "true",
-            "Property": "ChildTabPriority",
-            "RuleProviderType": "Unknown"
-          },
-          {
-            "Category": "Design",
-            "InvariantScript": "true",
-            "Property": "EnableChildFocus",
-            "RuleProviderType": "Unknown"
           }
         ],
         "StyleName": "defaultGroupContainerStyle",
@@ -1503,38 +1495,38 @@
         "VariantName": "manualLayoutContainer"
       }
     ],
-    "LastModifiedTimestamp": "638424421690841505",
+    "LastModifiedTimestamp": "638424421535625136",
     "Name": "MENU điều hướng",
     "Rules": [
       {
         "Category": "Design",
         "InvariantScript": "1",
         "Property": "ZIndex",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "0",
         "Property": "Y",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "0",
         "Property": "X",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "640",
         "Property": "Width",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
         "InvariantScript": "640",
         "Property": "Height",
-        "RuleProviderType": "Unknown"
+        "RuleProviderType": "System"
       },
       {
         "Category": "Design",
@@ -1562,7 +1554,7 @@
   "IsPcfControl": false,
   "IsPremiumPcfControl": false,
   "IsWidgetTemplate": false,
-  "LastModifiedTimestamp": "638424421690841505",
+  "LastModifiedTimestamp": "638424421535625136",
   "Name": "f58ea020eadd405abf74974183bda9b5",
   "OverridableProperties": {},
   "Version": "1.0"
