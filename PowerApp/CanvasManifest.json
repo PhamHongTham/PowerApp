@@ -134,14 +134,17 @@
     "UserLocale": "vi-VN"
   },
   "ScreenOrder": [
-    "DotXuat",
+    "Đột-xuất",
     "Xác-nhận-KQ",
+    "Xử-lí-nguyên-liệu",
+    "Quản-lí-cấp-nước",
+    "xác-nhận-cuối-cùng-về-KH",
     "DangNhap",
     "NhapThongTinTOP",
     "TOP",
     "XemDuLieu",
-    "Xử-lí-nguyên-liệu",
-    "Quản-lí-cấp-nước",
+    "ThongSo",
+    "DotXuat",
     "Xác-nhận-cuối-cùng-về-KH"
   ]
 }
