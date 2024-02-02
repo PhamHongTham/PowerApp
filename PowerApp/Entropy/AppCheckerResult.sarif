@@ -134,46 +134,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "TOPNhapThongTin.Container1_3.LayoutDirection"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "TOPNhapThongTin.Container1_3.LayoutDirection",
-                  "relativeAddress": 0
-                },
-                "region": {
-                  "charLength": 7,
-                  "charOffset": 15,
-                  "snippet": {
-                    "text": ".Manual"
-                  }
-                }
-              },
-              "properties": {
-                "member": "LayoutDirection",
-                "module": "TOPNhapThongTin",
-                "type": "TOPNhapThongTin.Container1_3"
-              }
-            }
-          ],
-          "message": {
-            "arguments": [
-              "Manual"
-            ],
-            "id": "issue"
-          },
-          "properties": {
-            "level": "High"
-          },
-          "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 0
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "TOP.Container1.Container2.Icon1.AccessibleLabel"
                 }
               ],
