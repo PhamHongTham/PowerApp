@@ -40,11 +40,12 @@ TOP As screen:
                 Align: =Align.Center
                 Color: =RGBA(255, 255, 255, 1)
                 FontWeight: =FontWeight.Bold
+                Height: =70
                 OnSelect: =Navigate(DangNhap,ScreenTransition.Fade)
                 Size: =18
                 Text: ="Đăng Nhập"
-                X: =97
-                Y: =146
+                Width: =337
+                Y: =131
                 ZIndex: =2
 
         Container2_1 As groupContainer.manualLayoutContainer:
@@ -73,11 +74,12 @@ TOP As screen:
                 Align: =Align.Center
                 Color: =RGBA(255, 255, 255, 1)
                 FontWeight: =FontWeight.Bold
+                Height: =77
                 OnSelect: =Navigate(XemDuLieu,ScreenTransition.Fade)
                 Size: =18
                 Text: ="Xem dữ liệu"
-                Width: =202
-                X: =70
-                Y: =146
+                Width: =339.5
+                X: =2
+                Y: =124
                 ZIndex: =2
 
