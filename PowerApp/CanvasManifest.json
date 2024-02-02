@@ -134,9 +134,14 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "TOP",
-    "XemDuLieu",
+    "Đột-xuất",
+    "Xác-nhận-KQ",
+    "Xử-lí-nguyên-liệu",
+    "Quản-lí-cấp-nước",
+    "xác-nhận-cuối-cùng-về-KH",
     "DangNhap",
-    "NhapThongTinTOP"
+    "NhapThongTinTOP",
+    "TOP",
+    "XemDuLieu"
   ]
 }
