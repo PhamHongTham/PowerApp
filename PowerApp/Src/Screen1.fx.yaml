@@ -6,6 +6,12 @@ Screen1 As screen:
         BorderThickness: =1
         DropShadow: =DropShadow.None
         Height: =125
+        LayoutDirection: =LayoutDirection.Manual
+        LayoutMode: =LayoutMode.Auto
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
         Width: =Parent.Width - 570
         X: =Parent.Width/2 - Self.Width/2
         Y: =Parent.Height/5 - 135

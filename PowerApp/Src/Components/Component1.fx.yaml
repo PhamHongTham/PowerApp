@@ -11,6 +11,12 @@ Component1 As CanvasComponent:
         BorderThickness: =1
         DropShadow: =DropShadow.None
         Height: =Parent.Height*.1
+        LayoutDirection: =LayoutDirection.Manual
+        LayoutMode: =LayoutMode.Auto
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
         Width: =Parent.Width - 390
         X: =Parent.Width/2 - Self.Width/2
         Y: =Parent.Y +20

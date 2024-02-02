@@ -14,6 +14,626 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "Component1.Sticky_top_menu_1.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "Component1",
+                "type": "Component1.Sticky_top_menu_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Component1.Sticky_top_menu_1.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "XemDuLieu.Container4.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "XemDuLieu",
+                "type": "XemDuLieu.Container4"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "XemDuLieu.Container4.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "DangNhap.Container3.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "DangNhap",
+                "type": "DangNhap.Container3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "DangNhap.Container3.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "NhapThongTin.Container6.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "NhapThongTin",
+                "type": "NhapThongTin.Container6"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "NhapThongTin.Container6.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Param.Container7.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "Param",
+                "type": "Param.Container7"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Param.Container7.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Screen1.Sticky_top_menu.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "Screen1",
+                "type": "Screen1.Sticky_top_menu"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Screen1.Sticky_top_menu.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TaoKeHoach.Container8.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "TaoKeHoach",
+                "type": "TaoKeHoach.Container8"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TaoKeHoach.Container8.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "TOP",
+                "type": "TOP.Container1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2_1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOPNhapThongTin.Container5.LayoutDirection"
+                }
+              ],
+              "properties": {
+                "member": "LayoutDirection",
+                "module": "TOPNhapThongTin",
+                "type": "TOPNhapThongTin.Container5"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOPNhapThongTin.Container5.LayoutDirection",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 7,
+                  "charOffset": 15,
+                  "snippet": {
+                    "text": ".Manual"
+                  }
+                }
+              }
+            }
+          ],
+          "message": {
+            "arguments": [
+              "Manual"
+            ],
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "XemDuLieu.Container4.Icon4.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "XemDuLieu",
+                "type": "XemDuLieu.Container4.Icon4"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "XemDuLieu.Container4.Icon4.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "XemDuLieu.Container4.Icon4.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "XemDuLieu",
+                "type": "XemDuLieu.Container4.Icon4"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "XemDuLieu.Container4.Icon4.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "DangNhap.Container3.Dropdown1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "DangNhap",
+                "type": "DangNhap.Container3.Dropdown1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "DangNhap.Container3.Dropdown1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "DangNhap.Container3.TextInput1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "DangNhap",
+                "type": "DangNhap.Container3.TextInput1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "DangNhap.Container3.TextInput1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "DangNhap.Container3.Icon3.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "DangNhap",
+                "type": "DangNhap.Container3.Icon3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "DangNhap.Container3.Icon3.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "DangNhap.Container3.Icon3.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "DangNhap",
+                "type": "DangNhap.Container3.Icon3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "DangNhap.Container3.Icon3.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "Screen1"
                 }
               ],
@@ -36,7 +656,247 @@
             "level": "Low"
           },
           "ruleId": "acc-ReadableScreenNameNeeded",
-          "ruleIndex": 0
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2.Icon1.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2.Icon1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2.Icon1.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2.Icon1.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2.Icon1"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2.Icon1.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2.Label3.FocusedBorderThickness"
+                }
+              ],
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2.Label3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2.Label3.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2.Label3.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2.Label3"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2.Label3.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.Icon2.AccessibleLabel"
+                }
+              ],
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2_1.Icon2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.Icon2.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 1
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.Icon2.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2_1.Icon2"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.Icon2.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.Label4.FocusedBorderThickness"
+                }
+              ],
+              "properties": {
+                "member": "FocusedBorderThickness",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2_1.Label4"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.Label4.FocusedBorderThickness",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-FocusBorderShouldBeVisible",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.Label4.TabIndex"
+                }
+              ],
+              "properties": {
+                "member": "TabIndex",
+                "module": "TOP",
+                "type": "TOP.Container1.Container2_1.Label4"
+              },
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "TOP.Container1.Container2_1.Label4.TabIndex",
+                  "relativeAddress": 0
+                }
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+          "ruleIndex": 2
         }
       ],
       "tool": {
@@ -44,6 +904,57 @@
           "fullName": "PowerApps app checker",
           "name": "PowerApps app checker",
           "rules": [
+            {
+              "id": "app-ErrInvalidName",
+              "messageStrings": {
+                "issue": {
+                  "text": "Name isn't valid. '{0}' isn't recognized."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove or correct the reference to the name that isn't valid."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "acc-AccessibleLabelNeeded",
+              "messageStrings": {
+                "issue": {
+                  "text": "Missing accessible label"
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Edit the accessible label property to describe the item."
+                ],
+                "level": "Medium",
+                "primaryCategory": "accessibility",
+                "whyFix": "If there's no accessible text, people who can’t see the screen won't understand what’s in images and controls."
+              }
+            },
+            {
+              "id": "acc-TabIndexShouldBeDefinedForInteractiveControl",
+              "messageStrings": {
+                "issue": {
+                  "text": "Missing tab stop"
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Set TabIndex to 0 or greater to ensure that interactive elements have a tab stop."
+                ],
+                "level": "Medium",
+                "primaryCategory": "accessibility",
+                "whyFix": "People who use the keyboard with your app will not be able to access this element without a tab stop."
+              }
+            },
             {
               "id": "acc-ReadableScreenNameNeeded",
               "messageStrings": {
@@ -59,6 +970,23 @@
                 "level": "Low",
                 "primaryCategory": "accessibility",
                 "whyFix": "People who are blind, have low vision, or a reading disability rely on screen titles to navigate using the screen reader. "
+              }
+            },
+            {
+              "id": "acc-FocusBorderShouldBeVisible",
+              "messageStrings": {
+                "issue": {
+                  "text": "Focus isn't showing"
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Change the FocusedBorderThickness property to be more than 0."
+                ],
+                "level": "Medium",
+                "primaryCategory": "accessibility",
+                "whyFix": "If the focus isn't visible, people who don't use a mouse won't be able to see it when they're interacting with the app."
               }
             }
           ],
